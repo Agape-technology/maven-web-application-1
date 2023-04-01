@@ -30,7 +30,7 @@ node{
 
 Build is done.
 
-DevOps Commandos''', recipientProviders: [developers(), contributor(), upstreamDevelopers()], subject: 'Build Status', to: 'wale2real@gmail.com'
+DevOps Commandos''',recipientProviders: [developers(), contributor(), upstreamDevelopers()], subject: 'Build Status', to: 'wale2real@gmail.com'
   }
  */
 }
